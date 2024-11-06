@@ -114,6 +114,6 @@ A classe `Imagem` representa uma composição de figuras geométricas.
 - **`public List<Figura> buscarPorAreaMaiorQue20()`**
     - **Descrição**: Retorna uma lista das figuras cuja área é maior que 20.
 
-- **`public List<Quadrado> buscarQuadrados()`**
+- **`public List<Figura> buscarQuadrados()`**
     - **Descrição**: Retorna uma lista com as figuras que são quadrados.
     - **Nota**: Utilize o método `instanceof` para verificar se a figura é um quadrado.
